@@ -1,5 +1,12 @@
+# IMPORTANT!1!!11
+Check out the [more advanced fork](https://github.com/joshclark756/rbxflags-without-cashgrab) here
+
 # rblxflags
-Just the fork of [luavfv's](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file) abusive fastflags (fuck putting them under a paywall)
+Just the fork of [luavfv's](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file) abusive fastflags 
+
+
+# My opinion about the situation
+Imagine putting already available fastflags under the paywall, ESPECIALLY if it contains the fastflags of other contributors. It's just nuts.
 
 # Physics (Abusive)
 ## Tool Desync
