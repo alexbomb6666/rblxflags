@@ -1,7 +1,7 @@
 # IMPORTANT!1!!11
 Check out the [more advanced fork](https://github.com/joshclark756/rbxflags-without-cashgrab) here
 
-# rblxflags
+# Info
 Just the fork of [luavfv's](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file) abusive fastflags 
 
 
